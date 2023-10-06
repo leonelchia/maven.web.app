@@ -95,13 +95,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>Landmark Technologies Releases Nexus Repository</name>
-	      <url>http://51.20.76.23:8081/repository/DNB-Releases/</url>
+	      <url>http://51.20.116.165:8081/repository/DNB-Releases/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Landmark Technologies Snapshot Nexus Repository </name>
-	      <url>http://51.20.76.23:8081/repository/DNB-Snapshot/</url>
+	      <url>http://51.20.116.165:8081/repository/DNB-Snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
